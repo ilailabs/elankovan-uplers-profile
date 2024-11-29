@@ -1,14 +1,19 @@
-## ELANGOVAN GOPAL, **Software Development Engineer (Flutter)**
-(Male, 30 y.o.)\
-Updated: Fri 29 Nov 12:38 PM  
+# ELANGOVAN GOPAL
 
-**Phone:** [9940275422](https://wa.me/919940275422) (Drop me a text on WhatsApp, If I'm unavailable over a call)
+Updated: Fri 29, Nov 12:50 PM  
 
-**Email:** [elankovanmg@gmail.com](mailto:elankovanmg@gmail.com)\
+**Software Development Engineer (Flutter)**  
+(Male, 30 y.o.)  
+
+**Phone:** [9940275422](https://wa.me/919940275422)
+
+**Email:** [elankovanmg@gmail.com](mailto:elankovanmg@gmail.com)
 
 **Website:** [ilailabs.github.io/elankovan-uplers-profile](https://ilailabs.github.io/elankovan-uplers-profile)  
 
 ---
+
+<iframe src="https://www.youtube.com/embed/MByqeMBcIss" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allowfullscreen></iframe>
 
 ## 1. Summary
 
@@ -55,15 +60,19 @@ Currently, I work as a **contract developer** and am **open to opportunities** t
 
 ### Rife Mobile Application  
 **[Independent Contractor]**  
-- Built a cross-platform app offering **frequency healing therapy** for patients, available for both Android and iOS platforms.
+- Built a cross-platform app offering **frequency healing therapy** for patients.  
+- **Android App:** [Play Store Link](https://play.google.com/store/apps/details?id=com.realrifetechnology.rife_mobile&pcampaignid=web_share)  
+- **iOS App:** [App Store Link](https://apps.apple.com/in/app/rife-technology/id6477342956)
 
 ### Xaults Wallet  
-**[AMEPAY Pvt. Ltd.]**  
-- Contributed to a **CBDC payment solution**, integrating RBI’s eRupee with advanced blockchain features.
+**[Contract Developer]**  
+- Contributed to a **CBDC payment solution**, integrating RBI’s eRupee with advanced blockchain features.  
+- **Website:** [Xaults](https://www.xaults.com/)
 
 ### AME Wallet  
-**[AMEPAY Pvt. Ltd.]**  
+**[AMEPAY Pvt. Ltd. - Full-time Assocaite]**  
 - Developed a **crypto-payment wallet** application, implementing smart contracts for token mint and burn on Ethereum.  
+- **App Link:** [AME Wallet](https://appadvice.com/app/ame-wallet/1626692865)
 
 ---
 
@@ -98,3 +107,4 @@ I am currently seeking **projects or roles** that leverage my skills and experie
 Feel free to reach out via email or phone to discuss opportunities.  
 
 ---
+```
