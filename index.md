@@ -4,8 +4,8 @@ Updated: Fri 29 Nov 12:38 PM
 
 **Software Development Engineer (Flutter)**  
 (Male, 30 y.o.)  
-**Phone:** [9940275422](https://wa.me/919940275422) (Drop me a text on WhatsApp, If I'm unavailable over a call)
-**Email:** [elankovanmg@gmail.com](mailto:elankovanmg@gmail.com)  
+**Phone:** [9940275422](https://wa.me/919940275422) (Drop me a text on WhatsApp, If I'm unavailable over a call)\
+**Email:** [elankovanmg@gmail.com](mailto:elankovanmg@gmail.com)\ 
 **Website:** [ilailabs.github.io/elan-iisc](https://ilailabs.github.io/elankovan-uplers-profile)  
 
 ---
