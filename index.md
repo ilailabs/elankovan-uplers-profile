@@ -107,4 +107,3 @@ I am currently seeking **projects or roles** that leverage my skills and experie
 Feel free to reach out via email or phone to discuss opportunities.  
 
 ---
-```
